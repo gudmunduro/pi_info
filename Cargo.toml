@@ -3,6 +3,8 @@ name = "pi_info"
 version = "0.1.0"
 authors = ["gudmunduro"]
 edition = "2018"
+description="Library to get info from Raspberry Pi like model or cpu temperture"
+license="MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
