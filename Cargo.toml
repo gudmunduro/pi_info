@@ -1,6 +1,6 @@
 [package]
 name = "pi_info"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["gudmunduro"]
 edition = "2018"
 description="Library to get info from Raspberry Pi like model or cpu temperture"

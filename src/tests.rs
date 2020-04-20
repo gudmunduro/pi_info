@@ -7,6 +7,7 @@ mod tests {
 
     #[test]
     fn cpu_temp_test() {
-        assert_eq!(cpu::cpu_temp(), Some(value));
+        println!("{}", cpu::cpu_temp());
+        assert_eq!(cpu::cpu_temp(), Ok(value));
     }
 }
